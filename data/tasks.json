@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Login endpoint'ini yaz",
+    "description": "Kullanıcı girişi için API ucu hazırlanacak",
+    "status": "completed",
+    "priority": "high",
+    "assignee": "gokay",
+    "createdAt": "2026-11-10T09:00:00.000Z",
+    "updatedAt": "2026-11-12T14:16:23.186Z"
+  },
+  {
+    "id": 3,
+    "title": "README dosyasını hazırla",
+    "description": "Proje kurulum ve kullanım adımları yazılacak",
+    "status": "completed",
+    "priority": "low",
+    "assignee": "gokay",
+    "createdAt": "2026-11-09T08:15:00.000Z",
+    "updatedAt": "2026-11-12T10:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Yeni görev",
+    "description": "",
+    "status": "todo",
+    "priority": "medium",
+    "assignee": "gokay",
+    "createdAt": "2026-11-12T14:14:35.691Z",
+    "updatedAt": "2026-11-12T14:14:35.691Z"
+  }
+]
